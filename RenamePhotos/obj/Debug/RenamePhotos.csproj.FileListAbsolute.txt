@@ -1,6 +1,0 @@
-c:\users\tom\documents\visual studio 2013\Projects\RenamePhotos\RenamePhotos\bin\Debug\RenamePhotos.exe.config
-c:\users\tom\documents\visual studio 2013\Projects\RenamePhotos\RenamePhotos\bin\Debug\RenamePhotos.exe
-c:\users\tom\documents\visual studio 2013\Projects\RenamePhotos\RenamePhotos\bin\Debug\RenamePhotos.pdb
-c:\users\tom\documents\visual studio 2013\Projects\RenamePhotos\RenamePhotos\obj\Debug\RenamePhotos.csprojResolveAssemblyReference.cache
-c:\users\tom\documents\visual studio 2013\Projects\RenamePhotos\RenamePhotos\obj\Debug\RenamePhotos.exe
-c:\users\tom\documents\visual studio 2013\Projects\RenamePhotos\RenamePhotos\obj\Debug\RenamePhotos.pdb
